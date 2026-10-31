@@ -1,0 +1,7 @@
+Data Type,Algorithm,Accuracy,Macro F1,Balanced Accuracy
+Genomics,Logistic Regression,0.404706,0.326059,0.373819
+Genomics,Random Forest,0.438824,0.341119,0.375888
+Epigenomics,Logistic Regression,0.838151,0.766178,0.771593
+Epigenomics,Random Forest,0.84958,0.767519,0.755082
+Integrated,Logistic Regression,0.861008,0.798833,0.794093
+Integrated,Random Forest,0.849412,0.759935,0.757857
