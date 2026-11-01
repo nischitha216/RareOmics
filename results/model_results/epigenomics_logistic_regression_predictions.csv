@@ -1,0 +1,174 @@
+Patient_ID,Actual_Subtype,Predicted_Subtype
+TCGA-P7-A5NY,Kinase signaling,Kinase signaling
+TCGA-P8-A5KC,Wnt-altered,Pseudohypoxia
+TCGA-P8-A5KD,Kinase signaling,Kinase signaling
+TCGA-P8-A6RX,Pseudohypoxia,Pseudohypoxia
+TCGA-P8-A6RY,Pseudohypoxia,Pseudohypoxia
+TCGA-PR-A5PF,Wnt-altered,Wnt-altered
+TCGA-PR-A5PG,Kinase signaling,Kinase signaling
+TCGA-PR-A5PH,Wnt-altered,Wnt-altered
+TCGA-QR-A6GO,Kinase signaling,Kinase signaling
+TCGA-QR-A6GR,Cortical admixture,Cortical admixture
+TCGA-QR-A6GS,Kinase signaling,Kinase signaling
+TCGA-QR-A6GT,Pseudohypoxia,Pseudohypoxia
+TCGA-QR-A6GU,Pseudohypoxia,Pseudohypoxia
+TCGA-QR-A6GW,Kinase signaling,Kinase signaling
+TCGA-QR-A6GX,Pseudohypoxia,Cortical admixture
+TCGA-QR-A6GY,Wnt-altered,Cortical admixture
+TCGA-QR-A6GZ,Pseudohypoxia,Pseudohypoxia
+TCGA-QR-A6H0,Pseudohypoxia,Pseudohypoxia
+TCGA-QR-A6H1,Kinase signaling,Kinase signaling
+TCGA-QR-A6H2,Wnt-altered,Kinase signaling
+TCGA-QR-A6H3,Pseudohypoxia,Pseudohypoxia
+TCGA-QR-A6H5,Pseudohypoxia,Pseudohypoxia
+TCGA-QR-A6H6,Pseudohypoxia,Pseudohypoxia
+TCGA-QR-A6ZZ,Pseudohypoxia,Pseudohypoxia
+TCGA-QR-A700,Wnt-altered,Pseudohypoxia
+TCGA-QR-A702,Kinase signaling,Kinase signaling
+TCGA-QR-A703,Pseudohypoxia,Pseudohypoxia
+TCGA-QR-A705,Pseudohypoxia,Pseudohypoxia
+TCGA-QR-A706,Pseudohypoxia,Pseudohypoxia
+TCGA-QR-A707,Kinase signaling,Kinase signaling
+TCGA-QR-A708,Wnt-altered,Pseudohypoxia
+TCGA-QR-A70A,Pseudohypoxia,Pseudohypoxia
+TCGA-QR-A70C,Wnt-altered,Wnt-altered
+TCGA-QR-A70D,Pseudohypoxia,Pseudohypoxia
+TCGA-QR-A70E,Pseudohypoxia,Wnt-altered
+TCGA-QR-A70G,Cortical admixture,Cortical admixture
+TCGA-QR-A70H,Wnt-altered,Wnt-altered
+TCGA-QR-A70I,Pseudohypoxia,Pseudohypoxia
+TCGA-QR-A70J,Pseudohypoxia,Pseudohypoxia
+TCGA-QR-A70K,Kinase signaling,Kinase signaling
+TCGA-QR-A70M,Kinase signaling,Kinase signaling
+TCGA-QR-A70N,Pseudohypoxia,Pseudohypoxia
+TCGA-QR-A70O,Kinase signaling,Kinase signaling
+TCGA-QR-A70P,Pseudohypoxia,Pseudohypoxia
+TCGA-QR-A70R,Wnt-altered,Cortical admixture
+TCGA-QR-A70T,Pseudohypoxia,Pseudohypoxia
+TCGA-QR-A70U,Kinase signaling,Kinase signaling
+TCGA-QR-A70V,Kinase signaling,Kinase signaling
+TCGA-QR-A70W,Kinase signaling,Kinase signaling
+TCGA-QR-A70X,Cortical admixture,Cortical admixture
+TCGA-QR-A7IN,Pseudohypoxia,Pseudohypoxia
+TCGA-QR-A7IP,Pseudohypoxia,Pseudohypoxia
+TCGA-QT-A5XJ,Pseudohypoxia,Pseudohypoxia
+TCGA-QT-A5XK,Kinase signaling,Kinase signaling
+TCGA-QT-A5XL,Pseudohypoxia,Pseudohypoxia
+TCGA-QT-A5XM,Kinase signaling,Kinase signaling
+TCGA-QT-A5XN,Kinase signaling,Kinase signaling
+TCGA-QT-A5XO,Kinase signaling,Kinase signaling
+TCGA-QT-A5XP,Kinase signaling,Kinase signaling
+TCGA-QT-A69Q,Wnt-altered,Wnt-altered
+TCGA-QT-A7U0,Pseudohypoxia,Pseudohypoxia
+TCGA-RT-A6Y9,Pseudohypoxia,Pseudohypoxia
+TCGA-RT-A6YA,Kinase signaling,Kinase signaling
+TCGA-RT-A6YC,Kinase signaling,Kinase signaling
+TCGA-RW-A67V,Wnt-altered,Kinase signaling
+TCGA-RW-A67W,Kinase signaling,Kinase signaling
+TCGA-RW-A67X,Pseudohypoxia,Cortical admixture
+TCGA-RW-A67Y,Kinase signaling,Kinase signaling
+TCGA-RW-A680,Pseudohypoxia,Pseudohypoxia
+TCGA-RW-A681,Pseudohypoxia,Kinase signaling
+TCGA-RW-A684,Kinase signaling,Kinase signaling
+TCGA-RW-A685,Cortical admixture,Cortical admixture
+TCGA-RW-A686,Wnt-altered,Wnt-altered
+TCGA-RW-A688,Kinase signaling,Kinase signaling
+TCGA-RW-A689,Kinase signaling,Kinase signaling
+TCGA-RW-A68A,Kinase signaling,Kinase signaling
+TCGA-RW-A68B,Kinase signaling,Wnt-altered
+TCGA-RW-A68C,Pseudohypoxia,Pseudohypoxia
+TCGA-RW-A68D,Pseudohypoxia,Pseudohypoxia
+TCGA-RW-A68F,Pseudohypoxia,Pseudohypoxia
+TCGA-RW-A68G,Cortical admixture,Wnt-altered
+TCGA-RW-A7CZ,Pseudohypoxia,Pseudohypoxia
+TCGA-RW-A7D0,Kinase signaling,Kinase signaling
+TCGA-RW-A8AZ,Wnt-altered,Wnt-altered
+TCGA-RX-A8JQ,Kinase signaling,Pseudohypoxia
+TCGA-S7-A7WL,Kinase signaling,Kinase signaling
+TCGA-S7-A7WM,Kinase signaling,Kinase signaling
+TCGA-S7-A7WN,Kinase signaling,Kinase signaling
+TCGA-S7-A7WO,Cortical admixture,Cortical admixture
+TCGA-S7-A7WP,Pseudohypoxia,Pseudohypoxia
+TCGA-S7-A7WQ,Pseudohypoxia,Pseudohypoxia
+TCGA-S7-A7WR,Kinase signaling,Kinase signaling
+TCGA-S7-A7WT,Wnt-altered,Kinase signaling
+TCGA-S7-A7WU,Pseudohypoxia,Wnt-altered
+TCGA-S7-A7WV,Cortical admixture,Pseudohypoxia
+TCGA-S7-A7WW,Cortical admixture,Pseudohypoxia
+TCGA-S7-A7WX,Kinase signaling,Kinase signaling
+TCGA-S7-A7X0,Pseudohypoxia,Pseudohypoxia
+TCGA-S7-A7X1,Pseudohypoxia,Pseudohypoxia
+TCGA-S7-A7X2,Kinase signaling,Kinase signaling
+TCGA-SA-A6C2,Pseudohypoxia,Pseudohypoxia
+TCGA-SP-A6QC,Kinase signaling,Kinase signaling
+TCGA-SP-A6QD,Pseudohypoxia,Pseudohypoxia
+TCGA-SP-A6QF,Kinase signaling,Kinase signaling
+TCGA-SP-A6QG,Pseudohypoxia,Pseudohypoxia
+TCGA-SP-A6QH,Pseudohypoxia,Pseudohypoxia
+TCGA-SP-A6QI,Kinase signaling,Kinase signaling
+TCGA-SP-A6QJ,Kinase signaling,Kinase signaling
+TCGA-SP-A6QK,Cortical admixture,Cortical admixture
+TCGA-SQ-A6I4,Cortical admixture,Pseudohypoxia
+TCGA-SQ-A6I6,Kinase signaling,Kinase signaling
+TCGA-SR-A6MP,Kinase signaling,Kinase signaling
+TCGA-SR-A6MQ,Kinase signaling,Kinase signaling
+TCGA-SR-A6MR,Pseudohypoxia,Pseudohypoxia
+TCGA-SR-A6MS,Wnt-altered,Wnt-altered
+TCGA-SR-A6MT,Pseudohypoxia,Pseudohypoxia
+TCGA-SR-A6MU,Cortical admixture,Cortical admixture
+TCGA-SR-A6MV,Pseudohypoxia,Pseudohypoxia
+TCGA-SR-A6MX,Pseudohypoxia,Pseudohypoxia
+TCGA-SR-A6MY,Kinase signaling,Kinase signaling
+TCGA-SR-A6MZ,Cortical admixture,Cortical admixture
+TCGA-SR-A6N0,Cortical admixture,Cortical admixture
+TCGA-TT-A6YJ,Kinase signaling,Kinase signaling
+TCGA-TT-A6YK,Pseudohypoxia,Pseudohypoxia
+TCGA-TT-A6YN,Kinase signaling,Kinase signaling
+TCGA-TT-A6YO,Cortical admixture,Cortical admixture
+TCGA-TT-A6YP,Pseudohypoxia,Pseudohypoxia
+TCGA-W2-A7H5,Kinase signaling,Kinase signaling
+TCGA-W2-A7H7,Pseudohypoxia,Pseudohypoxia
+TCGA-W2-A7HA,Kinase signaling,Kinase signaling
+TCGA-W2-A7HB,Kinase signaling,Kinase signaling
+TCGA-W2-A7HC,Kinase signaling,Kinase signaling
+TCGA-W2-A7HD,Kinase signaling,Kinase signaling
+TCGA-W2-A7HE,Cortical admixture,Cortical admixture
+TCGA-W2-A7HF,Kinase signaling,Kinase signaling
+TCGA-W2-A7HH,Pseudohypoxia,Pseudohypoxia
+TCGA-W2-A7UY,Pseudohypoxia,Pseudohypoxia
+TCGA-WB-A80K,Wnt-altered,Wnt-altered
+TCGA-WB-A80L,Cortical admixture,Wnt-altered
+TCGA-WB-A80M,Wnt-altered,Kinase signaling
+TCGA-WB-A80N,Kinase signaling,Kinase signaling
+TCGA-WB-A80O,Kinase signaling,Kinase signaling
+TCGA-WB-A80P,Pseudohypoxia,Pseudohypoxia
+TCGA-WB-A80Q,Wnt-altered,Wnt-altered
+TCGA-WB-A80V,Kinase signaling,Kinase signaling
+TCGA-WB-A80Y,Wnt-altered,Kinase signaling
+TCGA-WB-A814,Pseudohypoxia,Pseudohypoxia
+TCGA-WB-A815,Wnt-altered,Wnt-altered
+TCGA-WB-A816,Cortical admixture,Cortical admixture
+TCGA-WB-A817,Cortical admixture,Cortical admixture
+TCGA-WB-A818,Kinase signaling,Kinase signaling
+TCGA-WB-A819,Kinase signaling,Kinase signaling
+TCGA-WB-A81A,Pseudohypoxia,Wnt-altered
+TCGA-WB-A81D,Kinase signaling,Kinase signaling
+TCGA-WB-A81E,Pseudohypoxia,Pseudohypoxia
+TCGA-WB-A81F,Kinase signaling,Kinase signaling
+TCGA-WB-A81G,Pseudohypoxia,Pseudohypoxia
+TCGA-WB-A81H,Cortical admixture,Cortical admixture
+TCGA-WB-A81I,Pseudohypoxia,Pseudohypoxia
+TCGA-WB-A81J,Kinase signaling,Wnt-altered
+TCGA-WB-A81K,Cortical admixture,Cortical admixture
+TCGA-WB-A81M,Wnt-altered,Wnt-altered
+TCGA-WB-A81N,Kinase signaling,Kinase signaling
+TCGA-WB-A81P,Kinase signaling,Pseudohypoxia
+TCGA-WB-A81Q,Kinase signaling,Kinase signaling
+TCGA-WB-A81R,Kinase signaling,Kinase signaling
+TCGA-WB-A81S,Kinase signaling,Kinase signaling
+TCGA-WB-A81T,Kinase signaling,Kinase signaling
+TCGA-WB-A81V,Cortical admixture,Kinase signaling
+TCGA-WB-A81W,Kinase signaling,Kinase signaling
+TCGA-WB-A821,Pseudohypoxia,Wnt-altered
+TCGA-WB-A822,Pseudohypoxia,Pseudohypoxia
+TCGA-XG-A823,Cortical admixture,Pseudohypoxia
