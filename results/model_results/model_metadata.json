@@ -1,0 +1,36 @@
+{
+    "project": "RareTumor-Omics",
+    "training_samples": 173,
+    "total_input_features": 20156,
+    "genomic_features": 43,
+    "epigenomic_features": 20113,
+    "selected_features": 100,
+    "input_omics": [
+        "Genomics",
+        "Epigenomics"
+    ],
+    "target": "mRNA Subtype Clusters",
+    "classes": [
+        "Kinase signaling",
+        "Wnt-altered",
+        "Pseudohypoxia",
+        "Cortical admixture"
+    ],
+    "models": {
+        "logistic_regression": {
+            "file": "integrated_logistic_regression.joblib",
+            "cross_validation_accuracy": 0.861008,
+            "cross_validation_macro_f1": 0.798833,
+            "cross_validation_balanced_accuracy": 0.794093
+        },
+        "random_forest": {
+            "file": "integrated_random_forest.joblib",
+            "cross_validation_accuracy": 0.849412,
+            "cross_validation_macro_f1": 0.759935,
+            "cross_validation_balanced_accuracy": 0.757857
+        }
+    },
+    "python_version": "3.14.4",
+    "sklearn_version": "1.9.1",
+    "note": "Both pipelines were fitted on all labelled samples. Cross-validation metrics are evaluation results, not training accuracy or external validation."
+}
