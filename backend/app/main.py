@@ -1,3 +1,4 @@
+
 from app.services.model_service import metadata
 
 from fastapi import FastAPI
@@ -11,10 +12,12 @@ app = FastAPI(
     version="1.0.0"
 )
 
-# Allow the React frontend to communicate with FastAPI.
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["http://localhost:5173"],
+    allow_origins=[
+        "http://localhost:5173",
+        "https://rareomics.vercel.app"
+    ],
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
